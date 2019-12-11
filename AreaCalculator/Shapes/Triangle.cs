@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace AreaCalculator.Shapes.Impl
+namespace AreaCalculator.Shapes
 {
     public class Triangle : BaseShape
     {

@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using AreaCalculator.Models;
-using AreaCalculator.Shapes.Impl;
+using AreaCalculator.Shapes;
 using Xunit;
 
 namespace UnitTestProject

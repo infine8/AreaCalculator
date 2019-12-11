@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace AreaCalculator.Shapes.Impl
+namespace AreaCalculator.Shapes
 {
     public class Circle : BaseShape
     {

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using AreaCalculator.Models;
 
-namespace AreaCalculator.Shapes.Impl
+namespace AreaCalculator.Shapes
 {
     public class RandomShape : BaseShape
     {
